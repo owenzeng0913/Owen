@@ -1,924 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d854ce92-e816-4113-af47-4380bf271914" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_carrotsearch_hppc_0_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_24_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_feign_feign_core_8_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_feign_feign_okhttp_8_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_tdunning_t_digest_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vividsolutions_jts_1_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_23_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_ipc_reactor_netty_0_7_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_40.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_lingala_zip4j_zip4j_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_oschina_zcx7878_fastdfs_client_java_1_27_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_backward_codecs_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_grouping_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_join_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_misc_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial3d_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_extras_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_suggest_7_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_client_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_high_level_client_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_cli_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_core_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_jna_4_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_aggs_matrix_stats_client_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_parent_join_client_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_rank_eval_client_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_securesm_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_16_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_locationtech_spatial4j_spatial4j_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_0_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_0_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_oauth2_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_1_10_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/xcEduService01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-fastdfs/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-fastdfs/src/main/java/com/xuecheng/test/fastdfs/TestFastDFSApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-fastdfs/src/main/resources/config/fastdfs-client.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-fastdfs/src/test/java/com/xuecheng/test/fastdfs/TestFastDFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-fastdfs/target/classes/com/xuecheng/test/fastdfs/TestFastDFSApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-fastdfs/target/classes/config/fastdfs-client.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-fastdfs/target/test-classes/com/xuecheng/test/fastdfs/TestFastDFS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-fastdfs/test-fastdfs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/src/main/java/com/xuecheng/test/freemarker/FreemarkerTestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/src/main/java/com/xuecheng/test/freemarker/controller/FreemarkerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/src/main/java/com/xuecheng/test/freemarker/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/src/main/resources/templates/course.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/src/main/resources/templates/index_banner.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/src/main/resources/templates/test1.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/src/test/java/com/xuecheng/test/freemarker/FreemarkerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/src/test/java/com/xuecheng/test/freemarker/testRestTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/src/test/resources/templates/index_banner.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/src/test/resources/templates/test1.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/target/classes/com/xuecheng/test/freemarker/FreemarkerTestApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/target/classes/com/xuecheng/test/freemarker/controller/FreemarkerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/target/classes/com/xuecheng/test/freemarker/model/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/target/classes/templates/course.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/target/classes/templates/index_banner.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/target/classes/templates/test1.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/target/test-classes/com/xuecheng/test/freemarker/FreemarkerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/target/test-classes/com/xuecheng/test/freemarker/testRestTemplate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/target/test-classes/templates/index_banner.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/target/test-classes/templates/test1.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-freemarker/test-freemarker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/client/XcServiceList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/ExceptionCast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/ExceptionCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/interceptor/FeignClientInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/request/RequestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/CommonCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/QueryResponseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/QueryResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/ResponseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/ResultCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/web/BaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsConfigModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsPageParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsSiteServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/ext/CmsPageExt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/ext/CmsTemplateExt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/request/QueryPageRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsPageResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsPostPageResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CoursePreviewResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/GenerateHtmlResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CourseBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CourseIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CourseMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CourseOff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CoursePic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CoursePre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CoursePub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/Teachplan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/TeachplanMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/TeachplanMediaPub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/CategoryNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/CategoryParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/CourseInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/CourseView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/TeachplanExt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/TeachplanNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/TeachplanParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/request/CourseListRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/AddCourseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/CourseCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/CoursePublishResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/DeleteCourseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/FileSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/response/FileSystemCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/response/UploadFileResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/learning/XcLearningCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/learning/XcLearningList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/learning/respones/GetMediaResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/learning/respones/LearningCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaFileProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaFileProcess_m3u8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaVideoCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaVideoCourseSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/request/QueryMediaFileRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/response/CheckChunkResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/response/MediaCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/response/MediaCourseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/response/MediaFileResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/XcOrders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/XcOrdersDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/XcOrdersPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/request/CreateOrderRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/request/weixinPayInformRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/response/CreateOrderResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/response/OrderCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/response/OrderResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/response/PayOrderResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/response/PayQrcodeResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/portalview/PreViewCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/portalview/PreViewCourseMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/portalview/ViewCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/portalview/ViewCourseMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/portalview/response/PortalViewCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/report/ReportCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/report/ReportCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/search/CourseSearchParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/system/SysDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/system/SysDictionaryValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/task/XcTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/task/XcTaskHis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/test/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcCompanyUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcPermission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcUserRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/AuthToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/UserBasicInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/UserToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/UserTokenStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/XcMenuExt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/XcUserExt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/request/LoginRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/response/AuthCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/response/JwtResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/response/LoginResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/response/UcenterCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/CmsConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/CmsConfigModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/CmsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/CmsPageParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/CmsSite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/CmsSiteServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/CmsTemplate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/ext/CmsPageExt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/ext/CmsTemplateExt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/request/QueryPageRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/response/CmsCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/response/CmsPageResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/response/CmsPostPageResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/response/CoursePreviewResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/cms/response/GenerateHtmlResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/CourseBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/CourseIndex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/CourseMarket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/CourseOff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/CoursePic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/CoursePre.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/CoursePub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/Teachplan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/TeachplanMedia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/TeachplanMediaPub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/ext/CategoryNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/ext/CategoryParameter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/ext/CourseInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/ext/CourseView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/ext/TeachplanExt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/ext/TeachplanNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/ext/TeachplanParameter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/request/CourseListRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/response/AddCourseResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/response/CourseCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/response/CoursePublishResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/course/response/DeleteCourseResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/filesystem/FileSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/filesystem/response/FileSystemCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/filesystem/response/UploadFileResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/learning/XcLearningCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/learning/XcLearningList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/learning/respones/GetMediaResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/learning/respones/LearningCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/media/MediaFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/media/MediaFileProcess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/media/MediaFileProcess_m3u8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/media/MediaVideoCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/media/MediaVideoCourseSimple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/media/request/QueryMediaFileRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/media/response/CheckChunkResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/media/response/MediaCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/media/response/MediaCourseResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/media/response/MediaFileResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/order/XcOrders.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/order/XcOrdersDetail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/order/XcOrdersPay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/order/request/CreateOrderRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/order/request/weixinPayInformRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/order/response/CreateOrderResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/order/response/OrderCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/order/response/OrderResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/order/response/PayOrderResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/order/response/PayQrcodeResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/portalview/PreViewCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/portalview/PreViewCourseMedia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/portalview/ViewCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/portalview/ViewCourseMedia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/portalview/response/PortalViewCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/report/ReportCompany.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/report/ReportCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/search/CourseSearchParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/system/SysDictionary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/system/SysDictionaryValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/task/XcTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/task/XcTaskHis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/test/UserTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/XcCompany.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/XcCompanyUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/XcMenu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/XcPermission.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/XcRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/XcTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/XcUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/XcUserRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/ext/AuthToken.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/ext/UserBasicInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/ext/UserToken.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/ext/UserTokenStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/ext/XcMenuExt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/ext/XcUserExt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/request/LoginRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/response/AuthCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/response/JwtResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/response/LoginResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/classes/com/xuecheng/framework/domain/ucenter/response/UcenterCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/xc-framework-model.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/xc-framework-model.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-parent/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-parent/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-parent/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-parent/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/BCryptUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/CookieUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/GenerateOrderNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/HlsVideoUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/HttpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/MD5Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/Mp4VideoUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/Oauth2Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/Snowflake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/SnowflakeIdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/VideoUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/XcOauth2Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/ZipUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/src/main/java/com/xuecheng/govern/center/GovernCenterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/target/classes/com/xuecheng/govern/center/GovernCenterApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-center/xc-govern-center.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/GatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/filter/LoginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/filter/LoginFilterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/service/AuthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/target/classes/com/xuecheng/govern/gateway/GatewayApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/target/classes/com/xuecheng/govern/gateway/filter/LoginFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/target/classes/com/xuecheng/govern/gateway/filter/LoginFilterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/target/classes/com/xuecheng/govern/gateway/service/AuthService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-govern-gateway/xc-govern-gateway.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/auth/AuthControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsConfigControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/Swagger2Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/course/CourseControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/filesystem/FileSystemControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/learning/CourseLearningControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/media/MediaFileControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/media/MediaUploadControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/search/EsCourseControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/ucenter/UcenterControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/classes/com/xuecheng/api/auth/AuthControllerApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/classes/com/xuecheng/api/cms/CmsConfigControllerApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/classes/com/xuecheng/api/cms/CmsPageControllerApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/classes/com/xuecheng/api/config/Swagger2Configuration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/classes/com/xuecheng/api/course/CourseControllerApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/classes/com/xuecheng/api/filesystem/FileSystemControllerApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/classes/com/xuecheng/api/learning/CourseLearningControllerApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/classes/com/xuecheng/api/media/MediaFileControllerApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/classes/com/xuecheng/api/media/MediaUploadControllerApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/classes/com/xuecheng/api/search/EsCourseControllerApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/classes/com/xuecheng/api/ucenter/UcenterControllerApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/xc-service-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/xc-service-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/src/main/java/com/xuecheng/filesystem/FileSystemApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/src/main/java/com/xuecheng/filesystem/controller/FileSystemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/src/main/java/com/xuecheng/filesystem/dao/FileSystemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/src/main/java/com/xuecheng/filesystem/service/FileSystemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/target/classes/com/xuecheng/filesystem/FileSystemApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/target/classes/com/xuecheng/filesystem/controller/FileSystemController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/target/classes/com/xuecheng/filesystem/dao/FileSystemRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/target/classes/com/xuecheng/filesystem/service/FileSystemService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-base-filesystem/xc-service-base-filesystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/LearningApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/client/CourseSearchClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/config/RabbitMQConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/controller/CourseLearningController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/dao/XcLearningCourseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/dao/XcTaskHisRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/mq/ChooseCourseTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/service/LearningService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/target/classes/com/xuecheng/learning/LearningApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/target/classes/com/xuecheng/learning/client/CourseSearchClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/target/classes/com/xuecheng/learning/config/RabbitMQConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/target/classes/com/xuecheng/learning/controller/CourseLearningController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/target/classes/com/xuecheng/learning/dao/XcLearningCourseRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/target/classes/com/xuecheng/learning/dao/XcTaskHisRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/target/classes/com/xuecheng/learning/mq/ChooseCourseTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/target/classes/com/xuecheng/learning/service/LearningService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-learning/xc-service-learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/ManageCmsClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/config/MongoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/config/RabbitmqConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/dao/CmsPageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/dao/CmsSiteRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/mq/ConsumerPostPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/src/main/java/com/xuecheng/manage_cms_client/service/PageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/target/classes/com/xuecheng/manage_cms_client/ManageCmsClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/target/classes/com/xuecheng/manage_cms_client/config/MongoConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/target/classes/com/xuecheng/manage_cms_client/config/RabbitmqConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/target/classes/com/xuecheng/manage_cms_client/dao/CmsPageRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/target/classes/com/xuecheng/manage_cms_client/dao/CmsSiteRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/target/classes/com/xuecheng/manage_cms_client/mq/ConsumerPostPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/target/classes/com/xuecheng/manage_cms_client/service/PageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms-client/xc-service-manage-cms-client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/ManageCmsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/config/MongoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/config/RabbitmqConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/config/ResourceServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPagePreviewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsConfigRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsPageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsSiteRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsTemplateRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/publickey.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/GridFsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/RestTemplateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/dao/CmsPageRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/dao/PageServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/ManageCmsApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/config/MongoConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/config/RabbitmqConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/config/ResourceServerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/controller/CmsConfigController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/controller/CmsPageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/controller/CmsPagePreviewController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/dao/CmsConfigRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/dao/CmsPageRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/dao/CmsSiteRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/dao/CmsTemplateRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/com/xuecheng/manage_cms/service/PageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/classes/publickey.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/test-classes/com/xuecheng/manage_cms/GridFsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/test-classes/com/xuecheng/manage_cms/RestTemplateTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/test-classes/com/xuecheng/manage_cms/dao/CmsPageRepositoryTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/target/test-classes/com/xuecheng/manage_cms/dao/PageServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-cms/xc-service-manage-cms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/ManageCourseApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/client/CmsPageClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/config/ResourceServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/controller/CourseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CourseBaseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CourseMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CourseMarketRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CoursePicRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CoursePubRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/TeachplanMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/TeachplanMediaPubRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/TeachplanMediaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/TeachplanRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/exception/CustomExceptionCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/service/CourseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/resources/com/xuecheng/manage_course/dao/CourseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/resources/com/xuecheng/manage_course/dao/TeachplanMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/main/resources/publickey.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/test/java/com/xuecheng/manage_course/TestFeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/test/java/com/xuecheng/manage_course/TestRibbon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/src/test/java/com/xuecheng/manage_course/dao/TestDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/ManageCourseApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/client/CmsPageClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/config/ResourceServerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/controller/CourseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/dao/CourseBaseRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/dao/CourseMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/dao/CourseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/dao/CourseMarketRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/dao/CoursePicRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/dao/CoursePubRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/dao/TeachplanMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/dao/TeachplanMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/dao/TeachplanMediaPubRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/dao/TeachplanMediaRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/dao/TeachplanRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/exception/CustomExceptionCatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/com/xuecheng/manage_course/service/CourseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/classes/publickey.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/test-classes/com/xuecheng/manage_course/TestFeign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/test-classes/com/xuecheng/manage_course/TestRibbon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/target/test-classes/com/xuecheng/manage_course/dao/TestDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-course/xc-service-manage-course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/src/main/java/com/xuecheng/manage_media_process/ManageMediaProcessorApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/src/main/java/com/xuecheng/manage_media_process/config/RabbitMQConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/src/main/java/com/xuecheng/manage_media_process/dao/MediaFileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/src/main/java/com/xuecheng/manage_media_process/mq/MediaProcessTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/src/test/java/com/xuecheng/manage_media_process/TestProcessBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/target/classes/com/xuecheng/manage_media_process/ManageMediaProcessorApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/target/classes/com/xuecheng/manage_media_process/config/RabbitMQConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/target/classes/com/xuecheng/manage_media_process/dao/MediaFileRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/target/classes/com/xuecheng/manage_media_process/mq/MediaProcessTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/target/test-classes/com/xuecheng/manage_media_process/TestProcessBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media-processor/xc-service-manage-media-processor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/main/java/com/xuecheng/manage_media/ManageMediaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/main/java/com/xuecheng/manage_media/config/RabbitMQConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/main/java/com/xuecheng/manage_media/controller/MediaFileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/main/java/com/xuecheng/manage_media/controller/MediaUploadController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/main/java/com/xuecheng/manage_media/dao/MediaFileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/main/java/com/xuecheng/manage_media/service/MediaFileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/main/java/com/xuecheng/manage_media/service/MediaUploadService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/src/test/java/com/xuecheng/manage_media/TestFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/classes/com/xuecheng/manage_media/ManageMediaApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/classes/com/xuecheng/manage_media/TestFile$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/classes/com/xuecheng/manage_media/TestFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/classes/com/xuecheng/manage_media/config/RabbitMQConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/classes/com/xuecheng/manage_media/controller/MediaFileController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/classes/com/xuecheng/manage_media/controller/MediaUploadController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/classes/com/xuecheng/manage_media/dao/MediaFileRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/classes/com/xuecheng/manage_media/service/MediaFileService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/classes/com/xuecheng/manage_media/service/MediaUploadService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/classes/com/xuecheng/manage_media/service/MediaUploadService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/test-classes/com/xuecheng/manage_media/TestUploadFile$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/target/test-classes/com/xuecheng/manage_media/TestUploadFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-media/xc-service-manage-media.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/ManageOrderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/config/AsyncTaskConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/config/RabbitMQConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/dao/XcTaskHisRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/dao/XcTaskRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/mq/ChooseCourseTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/service/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/target/classes/com/xuecheng/order/ManageOrderApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/target/classes/com/xuecheng/order/config/AsyncTaskConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/target/classes/com/xuecheng/order/config/RabbitMQConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/target/classes/com/xuecheng/order/dao/XcTaskHisRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/target/classes/com/xuecheng/order/dao/XcTaskRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/target/classes/com/xuecheng/order/mq/ChooseCourseTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/target/classes/com/xuecheng/order/service/TaskService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-manage-order/xc-service-manage-order.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/src/main/java/com/xuecheng/search/SearchApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/src/main/java/com/xuecheng/search/config/ElasticsearchConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/src/main/java/com/xuecheng/search/controller/EsCourseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/src/main/java/com/xuecheng/search/service/EsCourseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/src/test/java/com/xuecheng/search/TestIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/src/test/java/com/xuecheng/search/TestSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/target/classes/com/xuecheng/search/SearchApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/target/classes/com/xuecheng/search/config/ElasticsearchConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/target/classes/com/xuecheng/search/controller/EsCourseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/target/classes/com/xuecheng/search/service/EsCourseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/target/test-classes/com/xuecheng/search/TestIndex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/target/test-classes/com/xuecheng/search/TestSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-search/xc-service-search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/UcenterAuthApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/client/UserClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/AuthorizationServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/CustomUserAuthenticationConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/controller/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/AuthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/UserDetailsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/UserJwt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/resources/xc.keystore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/TestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/TestJwt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/TestRedis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/com/xuecheng/auth/UcenterAuthApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/com/xuecheng/auth/client/UserClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/com/xuecheng/auth/config/AuthorizationServerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/com/xuecheng/auth/config/CustomUserAuthenticationConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/com/xuecheng/auth/config/WebSecurityConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/com/xuecheng/auth/controller/AuthController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/com/xuecheng/auth/service/AuthService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/com/xuecheng/auth/service/AuthService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/com/xuecheng/auth/service/UserDetailsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/com/xuecheng/auth/service/UserJwt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/config/druid-config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/classes/xc.keystore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/test-classes/com/xuecheng/auth/TestClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/test-classes/com/xuecheng/auth/TestClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/test-classes/com/xuecheng/auth/TestJwt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/target/test-classes/com/xuecheng/auth/TestRedis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter-auth/xc-service-ucenter-auth.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/UcenterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/controller/UcenterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/dao/XcCompanyUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/dao/XcMenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/dao/XcUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/java/com/xuecheng/ucenter/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/resources/com/xuecheng/ucenter/dao/XcMenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/target/classes/com/xuecheng/ucenter/UcenterApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/target/classes/com/xuecheng/ucenter/controller/UcenterController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/target/classes/com/xuecheng/ucenter/dao/XcCompanyUserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/target/classes/com/xuecheng/ucenter/dao/XcMenuMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/target/classes/com/xuecheng/ucenter/dao/XcMenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/target/classes/com/xuecheng/ucenter/dao/XcUserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/target/classes/com/xuecheng/ucenter/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-ucenter/xc-service-ucenter.iml" afterDir="false" />
-    </list>
+    <list default="true" id="d854ce92-e816-4113-af47-4380bf271914" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/xc-framework-parent/target/" />
     <ignored path="$PROJECT_DIR$/xc-framework-utils/target/" />
     <ignored path="$PROJECT_DIR$/xc-framework-model/target/" />
@@ -947,10 +30,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/LearningApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
+            <state relative-caret-position="399">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
@@ -959,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/filter/LoginFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+            <state relative-caret-position="449">
+              <caret line="106" column="5" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -968,16 +51,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/filter/LoginFilterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-785">
+            <state relative-caret-position="19">
               <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xc-govern-gateway/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
+            <state relative-caret-position="602">
               <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
             </state>
           </provider>
@@ -1128,6 +211,7 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1140,7 +224,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1159,7 +242,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29390356" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1459,7 +542,16 @@
       <workItem from="1538040100154" duration="66648000" />
       <workItem from="1538293400434" duration="7100000" />
       <workItem from="1595053230713" duration="862000" />
+      <workItem from="1595054173694" duration="843000" />
     </task>
+    <task id="LOCAL-00001" summary="the first demo">
+      <created>1595054263805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595054263805</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1495,12 +587,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253127000" />
+    <option name="totallyTimeSpent" value="253970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23458445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23793566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1509,8 +602,6 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info id="EJB" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Run Dashboard" sideWeight="0.49932975" weight="0.32803467" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2641844" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
@@ -1525,7 +616,8 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="right" id="Maven" weight="0.3297587" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49932975" weight="0.32803467" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1536,10 +628,15 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="the first demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="the first demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1826,31 +923,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/LearningApplication.java">
+    <entry file="file://$PROJECT_DIR$/xc-govern-gateway/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/filter/LoginFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+        <state relative-caret-position="602">
+          <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/filter/LoginFilterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-785">
+        <state relative-caret-position="19">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-govern-gateway/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/xc-govern-gateway/src/main/java/com/xuecheng/govern/gateway/filter/LoginFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+        <state relative-caret-position="449">
+          <caret line="106" column="5" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/LearningApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
